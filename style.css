@@ -35,3 +35,21 @@ body{
     outline: none;
     border-radius: 0.3em;
 }
+
+.search-container input{
+    background-color: transparent;
+    border: 1px solid aliceblue;
+    color: aliceblue;
+    padding: 0.7em;
+}
+
+.search-container imput:focus{
+    border-color: aliceblue;
+}
+
+.search-container button{
+    background-color:rgba(28, 2, 141, 0.89) ;
+    border: none;
+    cursor: pointer;
+    color: aliceblue;
+}
