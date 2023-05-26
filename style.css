@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&family=Noto+Sans+Mono&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -111,7 +112,7 @@ h2{
 
 .genre div{
     border: 1px solid #707888;
-    font-size: 0.85em;
+    font-size: 0.80em;
     padding: 0.4em 1.16em;
     border-radius: 0.4em;
     font-weight: 300;
