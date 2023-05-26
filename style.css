@@ -66,7 +66,7 @@ body{
 }
 
 .poster{
-    width: 100%;
+    width: 110%;
 }
 
 h2{
@@ -85,5 +85,65 @@ h2{
 }
 
 .rating img{
-    width: 1.2em;
+    width: 1.3em;
+}
+
+.rating h4{
+    display: inline-block;
+    font-size: 1.1em;
+    font-weight: 500;
+}
+
+.details{
+    display: flex;
+    font-size: 0.95em;
+    gap: 1em;
+    justify-content: center;
+    color: #1e293b;
+    margin: 0.5em 0;
+    font-weight: 300;
+}
+
+.genre{
+    display: flex;
+    justify-content: space-around;
+}
+
+.genre div{
+    border: 1px solid #707888;
+    font-size: 0.85em;
+    padding: 0.4em 1.16em;
+    border-radius: 0.4em;
+    font-weight: 300;
+}
+
+h3{
+    font-weight: 500;
+    margin-top: 1.2em;
+}
+
+p{
+    font-size: 0.9em;
+    font-weight: 300;
+    line-height: 1.18em;
+    text-align: justify;
+    color: #707888;
+}
+
+.msg{
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .container{
+        font-size: auto;
+    }
+    .poster{
+        margin: auto;
+        width: auto;
+        max-height: 10.8em;
+    }
+    .info{
+        grid-template-columns: 1fr;
+    }
 }
