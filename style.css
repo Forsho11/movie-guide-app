@@ -8,7 +8,7 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(rgba(28, 2, 141, 0.89) 50%, rgba(0, 0, 0, 0.918) 50%)
+    background: linear-gradient(rgba(30, 0, 65, 0.89) 50%, rgb(4, 0, 61) 50%)
 }
 
 .container{
@@ -49,7 +49,7 @@ body{
 }
 
 .search-container button{
-    background-color:rgba(28, 2, 141, 0.89) ;
+    background-color:rgba(55, 2, 141, 0.89) ;
     border: none;
     cursor: pointer;
     color: aliceblue;

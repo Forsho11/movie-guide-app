@@ -11,7 +11,7 @@ let receiveMovie = () => {
     //if field is empty
 
     if(movieName.length <= 0){
-        result.innerHTML = '<h3 class="msg">Please enter a movie name </h3>';
+        result.innerHTML = '<h3 class="msg">Enter a movie name</h3>';
     }
 
 
