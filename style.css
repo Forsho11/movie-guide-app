@@ -86,7 +86,7 @@ h2{
 }
 
 .rating img{
-    width: 1.3em;
+    width: 1.2em;
 }
 
 .rating h4{
@@ -100,7 +100,7 @@ h2{
     font-size: 0.95em;
     gap: 1em;
     justify-content: center;
-    color: #1e293b;
+    color: #707888;
     margin: 0.5em 0;
     font-weight: 300;
 }
@@ -112,7 +112,7 @@ h2{
 
 .genre div{
     border: 1px solid #707888;
-    font-size: 0.80em;
+    font-size: 0.70em;
     padding: 0.4em 1.16em;
     border-radius: 0.4em;
     font-weight: 300;
