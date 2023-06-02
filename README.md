@@ -1,5 +1,5 @@
 A simple movie guide app where you can search for a movie, see the duration, genre, actors, Year and a lot more! 
-# you can use it in https://boisterous-phoenix-498704.netlify.app/
+you can use it in https://boisterous-phoenix-498704.netlify.app/
 
 Heres a little example of it using:
 
